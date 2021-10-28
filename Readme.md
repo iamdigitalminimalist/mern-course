@@ -4,7 +4,7 @@
 
 - create fron-end and server
 - setup react app in front-end 'npx create-react-app .'
-- remove the junk
+- remove junk
 - get assets from final
 - install normalize.css
 - setup global styles
