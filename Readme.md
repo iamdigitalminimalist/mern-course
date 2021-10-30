@@ -9,6 +9,11 @@
 - install normalize.css
 - setup global styles
 
+#### Public Directory
+
+- setup title, favicon in public
+- favicon.io
+
 #### Setup Pages
 
 - create pages directory
@@ -18,7 +23,15 @@
 #### React Router 6
 
 ```bash
-npm i react-router@6.0.0-beta.0
+npm i react-router-dom@next
 ```
 
+- no exact, no Switch
 - setup basic routing in App.js
+
+#### Home Page
+
+- styled components
+- logo in figma
+- images in undraw.co
+-
